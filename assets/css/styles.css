@@ -140,3 +140,14 @@
     font-size: 1.6rem;
     margin-bottom: 3rem;
 }
+
+.footer {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.footer p {
+    color: var(--primary-color);
+    margin: 0;
+    padding: 3rem;
+}
